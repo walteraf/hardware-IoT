@@ -17,8 +17,8 @@
  
 #define AIO_SERVER      "io.adafruit.com" //Adafruit Servidor
 #define AIO_SERVERPORT  1883                  
-#define AIO_USERNAME    "walteraf"      //Insira o usuario criado na adafruit io
-#define AIO_KEY         "aio_qZUN354xnG7Kr9JgAbyZls0ztq7M" //Insira a chave de comunicação obtida na adafruit io
+#define AIO_USERNAME    ""      //Insira o usuario criado na adafruit io
+#define AIO_KEY         "" //Insira a chave de comunicação obtida na adafruit io
  
 //Váriáveis utilizadas
  
